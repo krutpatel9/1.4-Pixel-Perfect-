@@ -1,0 +1,304 @@
+
+body {
+  color: white;
+  max-width: 1280px;
+}
+.head {
+  background-image: url(water.jpg);
+  display: block;
+  padding: 35px;
+  background-position: center;
+  min-width: 1280px;
+  min-height: 510px;
+  max-height: 510px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.title {
+  text-align: center;
+  font-family:ubuntu;
+  position: relative;
+  top: 175px;
+  font-size: 60px;
+}
+
+.logo {
+  font-size: 9px;
+  position: absolute;
+  left: 50px;
+  top: 20px;
+}
+
+.topr {
+  display: inline;
+  position: fixed;
+  top: 5px;
+  right: 10px;
+  font-size: 13px;
+}
+
+.button {
+  position: relative;
+  left: 550px;
+  top: -102px;
+
+}
+
+.search {
+  background-color: transparent;
+  color: white;
+  border: 0px;
+
+  }
+
+.about {
+  background-color: transparent;
+  color: white;
+  border: 0px;
+}
+
+.article {
+  font-size: 1.5em;
+  max-width: 622px;
+  position: absolute;
+  top: 625px;
+  left: 140px;
+
+  font-family: lato;
+  font-style: normal;
+
+  text-align: left;
+  color: black;
+  max-height: 820px;
+}
+
+.i {
+  max-height: 25px;
+  max-width: 25px;
+  border-radius: 100%;
+}
+
+.radical {
+  border-left: 2px solid #808080;
+  text-indent: 20px;
+  color: blue
+
+}
+.buttons {
+  display: inline-block;
+  position: relative;
+  right:50px;
+}
+
+.but {
+  display: inline-block;
+  border: 1px solid black;
+}
+
+.cloud {
+  background-color: gray;
+}
+}
+
+.butt {
+  display: inline-block;
+  border: 1px solid black;
+}
+
+.utname {
+  font-size: 17px;
+}
+
+.titlee {
+  min-width: 575px;
+  font-size: 3em;
+}
+
+.mick {
+  display: inline-block;
+  color: blue;
+  position: relative;
+  top: 525px;
+  right:-800px;
+  text-align: center;
+}
+
+
+.container {
+  max-height: 130px;
+}
+.social {
+  display: inline-block;
+  position: relative;
+  top: -40px;
+  right: 10px;
+
+}
+
+.soc {
+  display: inline-block;
+
+}
+.mik{
+  border-radius: 100%;
+  max-width: 85px;
+  max-height: 85px;
+
+}
+
+
+.ad {
+  background-image: url(wavee.jpg);
+  max-height: 100px;
+  max-width: 300px;
+  position: relative;
+  top: 600px;
+  left: 780px;
+  color: black;
+  display: block;
+}
+
+.chik {
+  max-height: 300px;
+  max-width: 300px;
+}
+
+.add {
+  color: black;
+  position: relative;
+  right: 290px;
+  top: 1000px;
+  border-bottom: 2px solid black;
+  font-size: .97em;
+
+}
+
+.sb {
+  color: black;
+  max-width: 285px;
+  position: relative;
+  top: 790px;
+  left: 785px;
+
+}
+
+.line {
+  color: white;
+  border: 2px solid black;
+  position: relative;
+  bottom: -1520px;
+  min-width: 100%;
+  max-height: .0001px;
+  background-color: black
+
+}
+
+.bot {
+  position: absolute;
+  bottom: -2000px;
+  left: -15px;
+  color: black;
+  text-align: left;
+  min-width: 100%;
+}
+
+.bottitle {
+  position: relative;
+  text-align: center;
+
+}
+.botpics {
+  display: inline-block;
+
+}
+.pic {
+  background-image: url(snow.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 2px solid black;
+  display: inline-block;
+  min-width: 325px;
+  min-height: 330px;
+  max width: 325px;
+  max-height: 330px;
+  text-align: left;
+  text-align: bottom;
+  position: relative;
+  top: 20px;
+}
+
+.picc {
+  background-image: url(stella.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 2px solid black;
+  display: inline-block;
+  min-width: 325px;
+  max-width: 325px;
+  min-height: 325px;
+  min-width: 325px;
+  position: relative;
+  top: 20px;
+}
+
+
+
+
+.post {
+  background-image: url(alan.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 2px solid black;
+  display: inline-block;
+  min-width: 325px;
+  max-width: 325px;
+  min-height: 325px;
+  min-width: 325px;
+  position: relative;
+  top: 20px;
+}
+
+.last {
+  background-image: url(last.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 2px solid black;
+  display: inline-block;
+  min-width: 325px;
+  max-width: 325px;
+  min-height: 325px;
+  min-width: 325px;
+  position: relative;
+  top: 20px;
+}
+
+.one {
+  color: white;
+  font-size: 50px;
+  position: relative;
+  top: 275px;
+}
+
+.two {
+  color: white;
+  font-size: 50px;
+  position: relative;
+  top: 275px;
+}
+
+.three {
+  color: white;
+  font-size: 50px;
+  position: relative;
+  top: 275px;
+
+}
+
+.four {
+  color: white;
+  font-size: 50px;
+  position: relative;
+  top: 275px;
+}
